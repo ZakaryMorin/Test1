@@ -1,14 +1,1 @@
-# Operating system
 
-https://www.pcmag.com/picks/windows-vs-macos-vs-chrome-os-vs-ubuntu-linux-which-operating-system-reigns?test_uuid=02LlF0iWKsilxYTJVF8uH5y&test_variant=A
-This articles explains the benefits and cons of 4 different operating system. 
-It also gives you the links to install those OS.
-
-On the other hand, this article explains what is an operating system.
-It tells you about the history of how they were created.
-https://www.britannica.com/technology/operating-system
-
-There are also risks to operating system. If it is an outdated OS,
-it can cause vulnerabilities to your computer. It can allow hackers
-to access your system. Updating them is vital to your computer security.
-https://www.itconvergence.com/blog/risks-of-using-outdated-operating-system/ 
